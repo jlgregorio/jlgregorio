@@ -12,8 +12,8 @@ My interests range from automation scripts & small apps' development to 3D model
 
 Follow these links 👇🏻
 
-[LinkedIn][LinkedIn] **|**
-[Google Scholar][Google Scholar]
+💼 [LinkedIn][LinkedIn] **|**
+🎓 [Google Scholar][Google Scholar]
 
 [LinkedIn]: https://www.linkedin.com/in/jean-loup-gregorio/
 [Google Scholar]: https://scholar.google.com/citations?user=sOZSmWAAAAAJ&hl=fr&oi=ao
